@@ -11,6 +11,7 @@ Input and Output
 This algorithm will take three words.
 <br> B A S E<br>
     B A L L<br>
+    
            ----------<br>
            G A M E S<br>
 
